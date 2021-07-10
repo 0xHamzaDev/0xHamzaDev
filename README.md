@@ -51,5 +51,3 @@ Here are some ideas to get you started:
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDevv&theme=dark">
 </p>
 
- 
-{"mode":"full","isActive":false}
