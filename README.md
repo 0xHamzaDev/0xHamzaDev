@@ -38,16 +38,3 @@ Here are some ideas to get you started:
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
-
-<h2 align="center">Stats</h2>
-
-<p align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=StrayDevv&show_icons=true&theme=dark">
-</p>
-
-<h2 align="center">Top Languages</h2>
-
-<p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDevv&theme=dark">
-</p>
-
