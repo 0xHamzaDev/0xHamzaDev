@@ -20,3 +20,6 @@
 <p align="center">
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
+# Author
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/583839012025008129)](https://discord.com/users/583839012025008129)
