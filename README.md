@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Stray , Full Stack Developer !
+### I'm Hamza Alsherif, Full Stack Developer !
 
 ![](https://komarev.com/ghpvc/?username=StrayDevv&style=flat-square&color=101012)
 
