@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Hamza Alsherif, Full Stack Developer !
 
-![](https://komarev.com/ghpvc/?username=StrayDevv&style=flat-square&color=101012)
+![](https://komarev.com/ghpvc/?username=0xHamzaDev&style=flat-square&color=101012)
 
 # Languages and Tools:
 
