@@ -137,5 +137,6 @@ I'm always open to discussing new projects, collaborations, or even just chattin
 
 - [LinkedIn](https://www.linkedin.com/in/hamza-alsharif-6a09a4221)
 - [Twitter](https://twitter.com/hamza_alsherif)
+- [Portfolio](https://hamz4.com)
 
 ---
