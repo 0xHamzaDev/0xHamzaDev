@@ -126,9 +126,10 @@ I’m a Full Stack Developer with a passion for building seamless web and mobile
     <span>Photoshop</span>
   </div>
 </div>
+<br />
 
-<br />
-<br />
+#### 🛠️ Leet Code Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/HamzaDevv?theme=dark&font=baloo&extension=null)
 
 ---
       
