@@ -83,11 +83,9 @@ I enjoy turning complex ideas into fast, scalable, and production-ready experien
 ## GitHub Stats
 
 <div align="center">
+<img height="170" src="https://github-status.hamz4.com/api?username=0xHamzaDev&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 
-<img height="170" src="https://github-status.hamz4.com/api?username=0xHamzaDev&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=0" />
-
-<img height="170" src="https://github-status.hamz4.com/api/top-langs/?username=0xHamzaDev&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=0" />
-
+<img height="170" src="https://github-status.hamz4.com/api/top-langs?username=0xHamzaDev&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 </div>
 
 ---
